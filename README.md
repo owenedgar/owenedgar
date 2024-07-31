@@ -3,7 +3,7 @@
 <h2>👨‍💻 Business and Data Analyst Projects:</h2>
 
 - <b>R Studio Predictive Modeling and Data Cleansing</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Avocado Price Data, Modeling, and Visuals](https://github.com/owenedgar/Avocado-Prices-Regression-KNN-Linear-Modeling-Regression-Trees-/tree/main)
 - <b>Python Predictive Modelign and Data Cleansing</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>SQL</b>
